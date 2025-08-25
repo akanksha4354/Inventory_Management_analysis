@@ -1,0 +1,51 @@
+﻿product_id,product_name,category,unit_price,supplier_id
+P001,Rice 5kg A,Grocery,250,101
+P002,Wheat Flour 5kg B,Grocery,220,101
+P003,Milk 1L C,Dairy,50,102
+P004,Butter 500g D,Dairy,180,102
+P005,Shampoo 200ml E,Personal Care,120,103
+P006,Soap Bar F,Personal Care,40,103
+P007,Sugar 1kg G,Grocery,45,104
+P008,Tea Pack 250g H,Grocery,90,104
+P009,Coffee 200g I,Grocery,150,105
+P010,Toothpaste 100g J,Personal Care,60,105
+P011,Oil 1L K,Grocery,160,106
+P012,Salt 1kg L,Grocery,25,106
+P013,Cheese 200g M,Dairy,95,107
+P014,Curd 500ml N,Dairy,40,107
+P015,Shampoo 500ml O,Personal Care,200,108
+P016,Face Wash 100ml P,Personal Care,150,108
+P017,Rice Bran Oil 1L Q,Grocery,180,109
+P018,Brown Rice 5kg R,Grocery,300,109
+P019,Body Lotion 200ml S,Personal Care,250,110
+P020,Hand Wash 250ml T,Personal Care,90,110
+P021,Bread Loaf U,Bakery,40,111
+P022,Cookies Pack V,Bakery,120,111
+P023,Juice 1L W,Beverages,110,112
+P024,Soft Drink 500ml X,Beverages,45,112
+P025,Chips Pack Y,Snacks,35,113
+P026,Biscuits Pack Z,Snacks,50,113
+P027,Honey 250g A1,Grocery,180,114
+P028,Jam 200g B1,Grocery,120,114
+P029,Ice Cream 500ml C1,Dairy,200,115
+P030,Ghee 1L D1,Dairy,400,115
+P031,Shampoo Sachet E1,Personal Care,5,116
+P032,Talcum Powder F1,Personal Care,80,116
+P033,Noodles Pack G1,Grocery,45,117
+P034,Pasta Pack H1,Grocery,70,117
+P035,Green Tea 100g I1,Beverages,150,118
+P036,Energy Drink J1,Beverages,90,118
+P037,Shampoo Herbal K1,Personal Care,180,119
+P038,Conditioner L1,Personal Care,160,119
+P039,Apple Pack M1,Fruits,120,120
+P040,Banana Dozen N1,Fruits,60,120
+P041,Orange Pack O1,Fruits,90,121
+P042,Grapes Pack P1,Fruits,150,121
+P043,Chicken 1kg Q1,Meat,280,122
+P044,Fish 1kg R1,Meat,320,122
+P045,Egg Tray (30) S1,Meat,160,123
+P046,Mutton 1kg T1,Meat,600,123
+P047,Detergent 1kg U1,Household,120,124
+P048,Floor Cleaner V1,Household,95,124
+P049,Tissue Roll W1,Household,40,125
+P050,Dishwash Gel X1,Household,70,125
